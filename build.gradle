@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'com.junhyeokkk'
-version = '0.0.5-SNAPSHOT'
+version = '1.0.1-SNAPSHOT'
 
 java {
     toolchain {
