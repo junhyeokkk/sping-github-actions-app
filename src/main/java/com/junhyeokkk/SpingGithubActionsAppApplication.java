@@ -9,10 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @SpringBootApplication
-public class SpingGithubActionsAppApplication {
+public class SpringGithubActionsAppApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpingGithubActionsAppApplication.class, args);
+        SpringApplication.run(SpringGithubActionsAppApplication.class, args);
     }
 
     @Value("${spring.application.name}")
